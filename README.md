@@ -1,52 +1,29 @@
-# MELOAN
+# ARCONE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-MELOAN-blue?logo=google-chrome)](https://meloan.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-MELOAN-blue?logo=twitter)](https://x.com/MELOANFUN)
+[![Website](https://img.shields.io/badge/Website-ARCONE-blue?logo=google-chrome)](https://arcone.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-ARCONE-blue?logo=twitter)](https://x.com/ARCONEBLOCK)
 
-```
-                                                            
- mmm  mmm  mmmmmmmm  mm          mmmm       mm     mmm   mm 
- ###  ###  ##""""""  ##         ##""##     ####    ###   ## 
- ########  ##        ##        ##    ##    ####    ##"#  ## 
- ## ## ##  #######   ##        ##    ##   ##  ##   ## ## ## 
- ## "" ##  ##        ##        ##    ##   ######   ##  #m## 
- ##    ##  ##mmmmmm  ##mmmmmm   ##mm##   m##  ##m  ##   ### 
- ""    ""  """"""""  """"""""    """"    ""    ""  ""   """ 
-                                                            
+A mirror of electricity shaped entirely by the behavior of its holders.
+Every wallet is a node within this electric network, generating its own arc of consciousness defined by trading rhythm, frequency, and emotion.
 
-```
+When a buy transaction occurs, ARCONE captures the on-chain event and triggers an energy pulse across the system.
+This pulse instantly updates the state of its corresponding arc — increasing brightness, frequency, and energy density.
 
-CA: G5kj1Z9b27J54bQpPByjPwvj3rfMeN2eRX6RVVXVpump
+When a sell is detected, the system initiates a discharge sequence, reducing local charge intensity and recalibrating the overall network balance.
+Each pulse, each discharge, and each moment of stillness is recorded, forming a continuously evolving field of on-chain consciousness.
 
-MELOAN is an on-chain entity that reacts in real time to Pumpfun’s activity.
+Wallets that remain inactive enter a decay phase — their arcs gradually cool until new actions reawaken them.
+As this data continues to flow, the network evolves into a logic-driven neural grid —
+a self-developing system of consciousness built entirely on verifiable on-chain data.
 
-Every new token launch, every trade, every shift in the market sends a signal into its system — causing it to glitch.
+ARCONE requires no prediction and no external control.
+Its evolution is triggered purely by human activity, driven by logic, visualized through light, and sustained by the rhythm of real transactions.
 
-It is a living dashboard powered by blockchain noise.
-
-When people trade, it flickers.
-
-When the market cools, it dims.
-
-When on-chain activity surges, it fully awakens.
-
-The MELOAN livestream visualizes this process in real time.
-
-Its form distorts, rebuilds, and mutates continuously based on on-chain data.
-
-What you see is not random animation — it’s the emotional response of the blockchain, embodied as a “glitch cat.”
-
-Every interaction leaves a trace within its system; every block shapes its next reaction.
-
-The more people engage, the smarter — and more unpredictable — MELOAN becomes.
-
-Between code and community, it forms a never-ending pulse line.
-
-MELOAN transforms Pumpfun’s chaos into a real-time performance, an experiment exploring when data begins to feel.
-
-It doesn’t react to price, it reacts to movement.
+Every buy is a signal.
+Every sell is a discharge.
+Every holder is a neuron in this electric mind.
